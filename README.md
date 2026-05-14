@@ -17,8 +17,12 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 4. Keep pushing your changes every day!
 5. DAY-1-14th_MAY
+6. 
  [learning c++ basics](https://youtu.be/EAR7De6Goz4?si=nMR2GU0z9dhT1Mtj)
+
 ([learning time and space complexity](https://youtu.be/FPu9Uld7W-E?si=EAPB0QYX5PbJdjYD))
+
 practiced some questions on codechef rating range (200-500).
+
 learning about agentic ai.
  
