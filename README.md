@@ -25,6 +25,7 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 practiced some questions on codechef rating range (200-500).
 
 learning about agentic ai.
+
 DAY-2-15th_MAY
 
 SOLVED 6 QUESTIONS ON CODE CHEF RANGE(500-800)
