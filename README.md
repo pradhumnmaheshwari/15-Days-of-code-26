@@ -38,4 +38,21 @@ DAY-3-16th_MAY
 SOLVED 2 QUESTIONS ON CODE CHEF
 
 AND I AM STUCK IN ONE QUESTION AND TRYING TO SOLVE IT
+
+17th-MAY
+DUE TO SOME REASON I AM NOT ABLE TO CODE.
+
+DAY-4-18th_MAY
+
+(BASIC MATH FOR DSA)[https://youtu.be/1xNbjMdbjug?si=YavigcSA3lsE3Hs7]
+
+SOLVED 2 OUESTIONS ON CODE CHEF RATING RANGE(780-800)
+
+(Binary Battles)[https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BIN_BAT]
+
+(Best of Two)[https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DICEGAME2]
+
+TRIED ANOTHER QUESTION
+
+(The Lead Game)[https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TLG]
  
