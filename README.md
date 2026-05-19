@@ -16,7 +16,7 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
    - Add links to your code submissions/projects  
 
 4. Keep pushing your changes every day!
-5. DAY-1-14th_MAY
+6. DAY-1-14th_MAY
 
  [learning c++ basics](https://youtu.be/EAR7De6Goz4?si=nMR2GU0z9dhT1Mtj)
 
@@ -33,6 +33,7 @@ SOLVED 6 QUESTIONS ON CODE CHEF RANGE(500-800)
 [Pattern solved examples](https://youtu.be/tNm_NNSB3_w?si=8Al-oWcNoSSEQSao)
 
 DAY-3-16th_MAY
+
 [COMPLETE C++ STL](https://youtu.be/RRVYpIET_RU?si=mZbY5B7scVOWlI30)
 
 SOLVED 2 QUESTIONS ON CODE CHEF
@@ -40,6 +41,7 @@ SOLVED 2 QUESTIONS ON CODE CHEF
 AND I AM STUCK IN ONE QUESTION AND TRYING TO SOLVE IT
 
 17th-MAY
+
 DUE TO SOME REASON I AM NOT ABLE TO CODE.
 
 DAY-4-18th_MAY
@@ -55,4 +57,20 @@ SOLVED 2 OUESTIONS ON CODE CHEF RATING RANGE(780-800)
 TRIED ANOTHER QUESTION
 
 (The Lead Game)[https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TLG]
+
+DAY-5-19th_MAY
+
+SOLVED 5 QUESTIONS ON CODE CHEF RATING RANGE(790-800)
+
+(Binary Battles)[https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/BIN_BAT]
+
+(Best of Two)[https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DICEGAME2]
+
+(Degree of Polynomial)[https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DPOLY]
+
+(Recent contest problems)[https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/RECENTCONT]
+
+(The Cooler Dilemma 2)[https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WATERCOOLER2]
+
+ALSO TRIED (Primality Test)[https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/PRB01]
  
