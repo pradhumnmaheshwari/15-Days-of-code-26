@@ -73,4 +73,16 @@ SOLVED 5 QUESTIONS ON CODE CHEF RATING RANGE(790-800)
 (The Cooler Dilemma 2)[https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WATERCOOLER2]
 
 ALSO TRIED (Primality Test)[https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/PRB01]
+
+DAY-6-20th_MAY
+
+(Introduction to Recursion)[https://youtu.be/yVdKa8dnKiE?si=KSYW62GZm18pL3sl]
+
+(Problems on Recursion)[https://youtu.be/un6PLygfXrA?si=TPxlCFKspbxq90JF]
+
+(Parameterised and Functional Recursion)[https://youtu.be/69ZCDFy-OUo?si=iaXDn5flFAAF8PDO]
+
+SOLVED ONE QUESTION ON LEETCODE 
+
+(Reverse Integer)[https://leetcode.com/submissions/detail/2008222485/]
  
