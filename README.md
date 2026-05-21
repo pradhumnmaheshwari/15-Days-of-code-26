@@ -85,4 +85,14 @@ DAY-6-20th_MAY
 SOLVED ONE QUESTION ON LEETCODE 
 
 (Reverse Integer)[https://leetcode.com/submissions/detail/2008222485/]
+
+DAY-7-21th_MAY
+
+LEARNING ABOUT NUMPY AND EXPLORING ABOUT N8N 
+and solved some problems on code chef 
+
+
+
+
+
  
