@@ -91,6 +91,16 @@ DAY-7-21th_MAY
 LEARNING ABOUT NUMPY AND EXPLORING ABOUT N8N 
 and solved some problems on code chef 
 
+DAY-8-22th_MAY
+
+( Problems on Functional Recursion){https://youtu.be/twuC1F6gLI8?si=O9uMwl4y077CGITf]
+
+(Multiple Recursion Calls){https://youtu.be/kvRjNm4rVBE?si=qPdapDLpCDe5phZo}
+
+( HASHING |Maps ){https://youtu.be/KEs5UyBJ39g?si=ndmTX-ukkTjqGyXF}
+
+SOLVED ONE QUESTIONS ON LEETCODE
+(fibonacci number){https://leetcode.com/problems/fibonacci-number/}
 
 
 
