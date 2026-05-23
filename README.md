@@ -102,6 +102,15 @@ DAY-8-22th_MAY
 SOLVED ONE QUESTIONS ON LEETCODE
 (fibonacci number){https://leetcode.com/problems/fibonacci-number/}
 
+DAY-9-23th_MAY
+
+LEARN SORTING TECHINQUES 
+(Selection Sort, Bubble Sort, Insertion Sort){https://youtu.be/HGk_ypEuS24?si=upno84zn9MDOEBWY}
+
+(Merge Sort){https://youtu.be/ogjf7ORKfd8?si=FdijTdtKelmWEOpg}
+
+(Quick Sort For Beginners){https://youtu.be/WIrA4YexLRQ?si=L0og-_rOFxsGpjcq}
+
 
 
 
