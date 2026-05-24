@@ -111,6 +111,20 @@ LEARN SORTING TECHINQUES
 
 (Quick Sort For Beginners){https://youtu.be/WIrA4YexLRQ?si=L0og-_rOFxsGpjcq}
 
+DAY-10-24th_MAY
+
+SOLVED PROBLEMS ON ARRAY
+(LARGEST ELEMENT IN ARRAY){https://takeuforward.org/plus/dsa/problems/largest-element?source=strivers-a2z-dsa-track}
+
+(SECOND LARGEST ELEMENT IN ARRAY){https://takeuforward.org/plus/dsa/problems/second-largest-element}
+
+THREE PROBLEMS ON LEETCODE
+(CHECK IF ARRAY IS SORTED){https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/submissions/2011771090}
+
+(ROTATE ARRAY ){https://leetcode.com/problems/rotate-array/submissions/2011753081}
+
+(REMOVE DUPLICATE FROM SORTED ARRAY){https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2011723611}
+
 
 
 
