@@ -125,6 +125,19 @@ THREE PROBLEMS ON LEETCODE
 
 (REMOVE DUPLICATE FROM SORTED ARRAY){https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2011723611}
 
+DAY-11-26th_MAY
+
+SOLVED 5 QUESTIONS ON ARRAYS 
+
+LINEAR SEARCH ,FIND MISSING NUMBER
+
+(MAX CONSECUTIVE ONE'S){https://leetcode.com/submissions/detail/2013657530/}
+
+(SINGLE NUMBER IN DOUBLE ARRAY){https://leetcode.com/submissions/detail/2013632068/}
+
+(MOVE ZEROS TO END){https://leetcode.com/submissions/detail/2013176658/}
+
+LEARNING NUMPY FOR AI/ML
 
 
 
