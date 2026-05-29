@@ -139,6 +139,15 @@ LINEAR SEARCH ,FIND MISSING NUMBER
 
 LEARNING NUMPY FOR AI/ML
 
+DAY-12-27th_MAY
+
+SOLVED TWO PROBLEMS ON LEETCODE
+(TWO SUM){https://leetcode.com/problems/two-sum/submissions/2014579869}
+(SORT COLORS){https://leetcode.com/problems/sort-colors/submissions/2014610375}
+
+LEARNING NUMPY FUNDAMENTALS
+(NUMPY FUNDAMENTALS){https://www.youtube.com/live/XF6DCrNTzug?si=kKWIrV1OyntzHrFz}
+
 
 
  
