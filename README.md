@@ -148,6 +148,20 @@ SOLVED TWO PROBLEMS ON LEETCODE
 LEARNING NUMPY FUNDAMENTALS
 (NUMPY FUNDAMENTALS){https://www.youtube.com/live/XF6DCrNTzug?si=kKWIrV1OyntzHrFz}
 
+DAY-13-30th_MAY
+WATCHED NUMPY TUTORIAL BY CAMPUSX FOR AI/ML
+(Advanced Numpy){https://www.youtube.com/live/40xGMygHMDU?si=k7Pi8mdmj3ePv1WE}
+
+DAY-14-31th_MAY
+WATCHED NUMPY TUTORIAL BY CAMPUS X
+( Numpy Tricks){https://www.youtube.com/live/jFBpnd0G09o?si=E-lHlGFPmfbXdmGM}
+
+SOLVED ONE QUESTION  ON ARRAY(MEDIUM)
+(BEST TIME TO SELL STOCK){https://takeuforward.org/plus/dsa/problems/best-time-to-buy-and-sell-stock?source=strivers-a2z-dsa-track}
+AND TRIED SOME SOME OTHERS ON ARRAYS
+
+
+
 
 
  
