@@ -160,6 +160,18 @@ SOLVED ONE QUESTION  ON ARRAY(MEDIUM)
 (BEST TIME TO SELL STOCK){https://takeuforward.org/plus/dsa/problems/best-time-to-buy-and-sell-stock?source=strivers-a2z-dsa-track}
 AND TRIED SOME SOME OTHERS ON ARRAYS
 
+DAY-15-2nd_JUNE
+
+SOLVED PROBLEMS ON ARRAY
+
+(Union of two sorted arrays){https://takeuforward.org/plus/dsa/problems/union-of-two-sorted-arrays?source=strivers-a2z-dsa-track}
+(Longest subarray with sum K){https://takeuforward.org/plus/dsa/problems/longest-subarray-with-sum-k?source=strivers-a2z-dsa-track}
+SOLVED TWO PROBLEMS ON LEET CODE 
+(MAXIMUM SUBARRAY){https://leetcode.com/problems/maximum-subarray/submissions/2020284079}
+(MAJORITY ELEMENTS){https://leetcode.com/problems/majority-element/submissions/2020231318}
+
+
+
 
 
 
