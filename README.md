@@ -171,6 +171,15 @@ SOLVED TWO PROBLEMS ON LEET CODE
 (MAJORITY ELEMENTS){https://leetcode.com/problems/majority-element/submissions/2020231318}
 
 
+PHASE 2-->15_OF_CODE
+DAY-1-15th_JUNE
+
+SOLVED PROBLEMS ON BINARY SEARCH
+(minimum in rotated sorted array){https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/2033976617}
+(search in rotated sorted array2){https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/2033949451}
+(Count Occurrences in a Sorted Array){https://takeuforward.org/plus/dsa/problems/count-occurrences-in-a-sorted-array?source=strivers-a2z-dsa-track}
+(Floor and Ceil in Sorted Array){https://takeuforward.org/plus/dsa/problems/floor-and-ceil-in-sorted-array?source=strivers-a2z-dsa-track}
+
 
 
 
