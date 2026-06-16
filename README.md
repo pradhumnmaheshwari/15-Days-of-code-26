@@ -184,6 +184,15 @@ SOLVED PROBLEMS ON BINARY SEARCH
 
 (Floor and Ceil in Sorted Array){https://takeuforward.org/plus/dsa/problems/floor-and-ceil-in-sorted-array?source=strivers-a2z-dsa-track}
 
+DAY-2-16th_JUNE
+
+SOLVED TWO PROBLEMS ON BINARY SEARCH 
+
+(SINGLE ELEMENT){https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/2035343790}
+
+(how many times array is rotated){https://takeuforward.org/plus/dsa/problems/find-out-how-many-times-the-array-is-rotated?source=strivers-a2z-dsa-track}
+
+
 
 
 
