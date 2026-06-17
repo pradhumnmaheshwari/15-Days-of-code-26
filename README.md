@@ -192,6 +192,15 @@ SOLVED TWO PROBLEMS ON BINARY SEARCH
 
 (how many times array is rotated){https://takeuforward.org/plus/dsa/problems/find-out-how-many-times-the-array-is-rotated?source=strivers-a2z-dsa-track}
 
+DAY-3-17th_JUNE
+
+SOLVED PROBLEMS ON BINARY SEARCH
+
+(PEAK ELEMENT){https://leetcode.com/problems/find-peak-element/submissions/2036373108}
+
+ATTEMPTED WEDNESDAY CONTEST ON CODE CHEF
+
+
 
 
 
