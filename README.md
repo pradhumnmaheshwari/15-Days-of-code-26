@@ -200,6 +200,14 @@ SOLVED PROBLEMS ON BINARY SEARCH
 
 ATTEMPTED WEDNESDAY CONTEST ON CODE CHEF
 
+DAY-4-18th_JUNE
+
+SOLVED TWO PROBLEMS ON BINARY SEARCH
+
+(SQRT OF A NUMBER){https://takeuforward.org/plus/dsa/problems/find-square-root-of-a-number?source=strivers-a2z-dsa-track}
+(Nth ROOT OF A NUMBER){https://takeuforward.org/plus/dsa/problems/find-square-root-of-a-number?source=strivers-a2z-dsa-track}
+
+
 
 
 
