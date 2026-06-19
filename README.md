@@ -207,6 +207,16 @@ SOLVED TWO PROBLEMS ON BINARY SEARCH
 (SQRT OF A NUMBER){https://takeuforward.org/plus/dsa/problems/find-square-root-of-a-number?source=strivers-a2z-dsa-track}
 (Nth ROOT OF A NUMBER){https://takeuforward.org/plus/dsa/problems/find-square-root-of-a-number?source=strivers-a2z-dsa-track}
 
+DAY-5-19th_JUNE
+
+STARTED LEARNING ABOUT STRING 
+SOLVED TWO QUESTIONS ON STRING
+
+{VALID PALINDROME}(https://leetcode.com/problems/valid-palindrome/submissions/2038788157)
+
+{REVERSE A STRING}(https://leetcode.com/problems/reverse-string/submissions/2038748214)
+
+
 
 
 
