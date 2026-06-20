@@ -216,6 +216,14 @@ SOLVED TWO QUESTIONS ON STRING
 
 {REVERSE A STRING}(https://leetcode.com/problems/reverse-string/submissions/2038748214)
 
+DAY-6-20th_JUNE
+
+SOLVED TWO PROBLEMS ON STRING AND TRIED SOME OTHERS
+
+(FIND THE INDEX){https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/2039753353}
+
+(REMOVE ALL OCCURRENCES){https://leetcode.com/problems/remove-all-occurrences-of-a-substring/submissions/2039776094}
+
 
 
 
