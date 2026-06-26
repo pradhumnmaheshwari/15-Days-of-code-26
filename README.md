@@ -224,6 +224,14 @@ SOLVED TWO PROBLEMS ON STRING AND TRIED SOME OTHERS
 
 (REMOVE ALL OCCURRENCES){https://leetcode.com/problems/remove-all-occurrences-of-a-substring/submissions/2039776094}
 
+DAY-7-26th-JUNE
+
+SOLVED TWO PROBLEMS ON STRING
+
+(LENGTH OF LAST WORD){https://leetcode.com/problems/length-of-last-word/submissions/2046801677}
+
+(PERMUTATION IN STRING){https://leetcode.com/problems/permutation-in-string/submissions/2046789539}
+
 
 
 
