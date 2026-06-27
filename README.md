@@ -232,6 +232,14 @@ SOLVED TWO PROBLEMS ON STRING
 
 (PERMUTATION IN STRING){https://leetcode.com/problems/permutation-in-string/submissions/2046789539}
 
+DAY-8-27th_JUNE
+
+SOLVED TWO QUESTIONS ON STRINGS
+
+(ISOMORPHIC STRING){https://leetcode.com/problems/isomorphic-strings/submissions/2047801708}
+
+(LARGEST ODD NUMBER){https://leetcode.com/problems/largest-odd-number-in-string/submissions/2047774493}
+
 
 
 
